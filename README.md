@@ -56,30 +56,31 @@ A B 6<Br>
 A F 3<Br>
 B D 2<Br>
 B C 3<Br>
-C D 1
-C E 5
-D E 8
-E I 5
-E J 5
-F G 1
-G I 3
-I J 3
-F H 7
-I H 2
-A 10
-B 8
-C 5
-D 7
-E 3
-F 6
-G 5
-H 3
-I 1
-J 0
-A
-J
+C D 1<Br>
+C E 5<Br>
+D E 8<Br>
+E I 5<Br>
+E J 5<Br>
+F G 1<Br>
+G I 3<Br>
+I J 3<Br>
+F H 7<Br>
+I H 2<Br>
+A 10<Br>
+B 8<Br>
+C 5<Br>
+D 7<Br>
+E 3<Br>
+F 6<Br>
+G 5<Br>
+H 3<Br>
+I 1<Br>
+J 0<Br>
+A<Br>
+J<Br>
+
+## OUTPUT
 <hr>
-Sample Output
 <img width="493" height="612" alt="Screenshot 2025-10-06 134443" src="https://github.com/user-attachments/assets/dddf5cb1-ac1b-4e63-a1e6-dc38389bf8a5" />
 <hr>
 
