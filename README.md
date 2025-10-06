@@ -49,6 +49,10 @@ AStar(input(),input())
 
 ```
 
+## GRAPH 
+
+![WhatsApp Image 2025-10-06 at 14 01 41_1a2c2f67](https://github.com/user-attachments/assets/6159279f-2bc2-45e9-99d8-137cbc485b78)
+
 ## INPUT
 
 10 14<Br>
@@ -78,11 +82,6 @@ I 1<Br>
 J 0<Br>
 A<Br>
 J<Br>
-
-## GRAPH 
-
-![WhatsApp Image 2025-10-06 at 14 01 41_1a2c2f67](https://github.com/user-attachments/assets/6159279f-2bc2-45e9-99d8-137cbc485b78)
-
 
 ## OUTPUT
 <hr>
