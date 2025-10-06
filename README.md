@@ -50,11 +50,12 @@ AStar(input(),input())
 ```
 
 SAMPLE INPUT
-10 14
-A B 6
-A F 3
-B D 2
-B C 3
+
+10 14<Br>
+A B 6<Br>
+A F 3<Br>
+B D 2<Br>
+B C 3<Br>
 C D 1
 C E 5
 D E 8
@@ -82,7 +83,6 @@ Sample Output
 <img width="493" height="612" alt="Screenshot 2025-10-06 134443" src="https://github.com/user-attachments/assets/dddf5cb1-ac1b-4e63-a1e6-dc38389bf8a5" />
 <hr>
 
-RESULT:
+## RESULT:
 The program successfully implements the A* Search Algorithm and finds the shortest path from the given start node to the goal node
 
-## RESULT
